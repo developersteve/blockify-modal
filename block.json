@@ -1,0 +1,11 @@
+{
+	"name": "blockify-modal",
+    "Author": "developersteve",
+    "version": "0.1.0",
+	"template": {
+            "name": "MyModalName",
+            "modal-title": "My Modal title",
+            "btn-name": "My Button Name",
+            "body": "Rooftop cinema prahran hipsters, kath and kim etihad stadium victoria street dodgies chopper read warehouse chic, melb grammar vs scotch the espy cold drip coffee neatly trimmed moustaches, spencer st station rooftop bars empire of the sun a macaron connoisseur the saints, brunswick and brunswick st dame edna shane warne"
+	}
+}
