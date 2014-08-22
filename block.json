@@ -3,6 +3,7 @@
     "Author": "developersteve",
     "version": "0.1.0",
 	"template": {
+            "@type": "thing",
             "name": "MyModalName",
             "modal-title": "My Modal title",
             "btn-name": "My Button Name",
