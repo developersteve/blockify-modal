@@ -1,9 +1,9 @@
 {
 	"name": "blockify-modal",
     "Author": "developersteve",
-    "version": "0.1.0",
+    "version": "0.1.01",
 	"template": {
-            "@type": "thing",
+            "@type": "Thing",
             "name": "MyModalName",
             "modal-title": "My Modal title",
             "btn-name": "My Button Name",
